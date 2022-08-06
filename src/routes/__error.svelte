@@ -18,3 +18,4 @@
   <title>404 - POKE</title>
 </svelte:head>
 <h1>{title}</h1>
+<p>Page not found!! Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora earum fugiat quis, illum distinctio quibusdam beatae? Consectetur temporibus sapiente debitis?</p>
